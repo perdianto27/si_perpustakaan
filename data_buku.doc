@@ -1,0 +1,232 @@
+ <table border="0" align="center" bgcolor="#FF9933">
+  <tr> 
+   <td><font size="+2"><strong>Laporan : Data Perpustakaan</strong></font></td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+   <td><hr />
+   <h4 align="center"><u>DATA BUKU</u></h4>
+   <b>
+- Kode Buku: 11<br />
+- Tanggal Entri : 2013-01-19 
+<hr /></b>
+   <table border="0" width="600">
+  <tr>
+   <td width="120" bgcolor="#FF9933">ISBN</td>
+   <td width="470" bgcolor="#99CC33">111-222-333-444-4</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Judul</td>
+   <td bgcolor="#99CC33">Cara Cepat Mendownload File</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Jenis Buku</td>
+   <td bgcolor="#99CC33">Website & Internet</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Penulis</td>
+   <td bgcolor="#99CC33">Egis G</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Penerbit</td>
+   <td bgcolor="#99CC33">Kompas Gramedia</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF9933">Tahun Terbit</td>
+    <td bgcolor="#99CC33">2006</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF9933">Jumlah Buku</td>
+    <td bgcolor="#99CC33">10</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF9933">Nomor Rak</td>
+    <td bgcolor="#99CC33">4</td>
+  </tr>
+  <tr>
+   <td colspan="3">Tanggal Cetak : Thu 17-Jan-2013</td>
+  </tr>
+ </table>
+ <hr />
+<br /><br />
+<b>
+- Kode Buku: 10<br />
+- Tanggal Entri : 2013-01-18 
+<hr /></b>
+   <table border="0" width="600">
+  <tr>
+   <td width="120" bgcolor="#FF9933">ISBN</td>
+   <td width="470" bgcolor="#99CC33">111-222-333-444-3</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Judul</td>
+   <td bgcolor="#99CC33">Desain Rumah Idaman Menggunakan Auto CAD</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Jenis Buku</td>
+   <td bgcolor="#99CC33">Desain Grafis</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Penulis</td>
+   <td bgcolor="#99CC33">Dian E</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Penerbit</td>
+   <td bgcolor="#99CC33">Media Kita</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF9933">Tahun Terbit</td>
+    <td bgcolor="#99CC33">1998</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF9933">Jumlah Buku</td>
+    <td bgcolor="#99CC33">10</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF9933">Nomor Rak</td>
+    <td bgcolor="#99CC33">3</td>
+  </tr>
+  <tr>
+   <td colspan="3">Tanggal Cetak : Thu 17-Jan-2013</td>
+  </tr>
+ </table>
+ <hr />
+<br /><br />
+<b>
+- Kode Buku: 8<br />
+- Tanggal Entri : 2013-01-17 
+<hr /></b>
+   <table border="0" width="600">
+  <tr>
+   <td width="120" bgcolor="#FF9933">ISBN</td>
+   <td width="470" bgcolor="#99CC33">111-222-333-444-1</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Judul</td>
+   <td bgcolor="#99CC33">Trik-trik MS Office 2010</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Jenis Buku</td>
+   <td bgcolor="#99CC33">Elekronika & Komputer</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Penulis</td>
+   <td bgcolor="#99CC33">Didin S</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Penerbit</td>
+   <td bgcolor="#99CC33">Gava Media</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF9933">Tahun Terbit</td>
+    <td bgcolor="#99CC33">2009</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF9933">Jumlah Buku</td>
+    <td bgcolor="#99CC33">10</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF9933">Nomor Rak</td>
+    <td bgcolor="#99CC33">1</td>
+  </tr>
+  <tr>
+   <td colspan="3">Tanggal Cetak : Thu 17-Jan-2013</td>
+  </tr>
+ </table>
+ <hr />
+<br /><br />
+<b>
+- Kode Buku: 9<br />
+- Tanggal Entri : 2013-01-18 
+<hr /></b>
+   <table border="0" width="600">
+  <tr>
+   <td width="120" bgcolor="#FF9933">ISBN</td>
+   <td width="470" bgcolor="#99CC33">111-222-333-444-2</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Judul</td>
+   <td bgcolor="#99CC33">Web Canggih dengan PHP dan MySql</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Jenis Buku</td>
+   <td bgcolor="#99CC33">Pemrograman</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Penulis</td>
+   <td bgcolor="#99CC33">Idad A </td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Penerbit</td>
+   <td bgcolor="#99CC33">Elex Media Komputindo</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF9933">Tahun Terbit</td>
+    <td bgcolor="#99CC33">2010</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF9933">Jumlah Buku</td>
+    <td bgcolor="#99CC33">10</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF9933">Nomor Rak</td>
+    <td bgcolor="#99CC33">2</td>
+  </tr>
+  <tr>
+   <td colspan="3">Tanggal Cetak : Thu 17-Jan-2013</td>
+  </tr>
+ </table>
+ <hr />
+<br /><br />
+<b>
+- Kode Buku: 12<br />
+- Tanggal Entri : 2013-01-20 
+<hr /></b>
+   <table border="0" width="600">
+  <tr>
+   <td width="120" bgcolor="#FF9933">ISBN</td>
+   <td width="470" bgcolor="#99CC33">111-222-333-444-5</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Judul</td>
+   <td bgcolor="#99CC33">Membuat Aplikasi Windows Phone</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Jenis Buku</td>
+   <td bgcolor="#99CC33">Pemrograman</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Penulis</td>
+   <td bgcolor="#99CC33">Eva S L A</td>
+  </tr>
+  <tr>
+   <td bgcolor="#FF9933">Penerbit</td>
+   <td bgcolor="#99CC33">Elex Media Komputindo</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF9933">Tahun Terbit</td>
+    <td bgcolor="#99CC33">2002</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF9933">Jumlah Buku</td>
+    <td bgcolor="#99CC33">10</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF9933">Nomor Rak</td>
+    <td bgcolor="#99CC33">5</td>
+  </tr>
+  <tr>
+   <td colspan="3">Tanggal Cetak : Thu 17-Jan-2013</td>
+  </tr>
+ </table>
+ <hr />
+<br /><br />
+   </td>
+  </tr>
+ </table>
+
+   </td>
+  </tr>
+ </table>

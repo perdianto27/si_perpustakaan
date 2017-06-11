@@ -1,0 +1,32 @@
+<?php
+$hasilpenjumlahan=1+2;
+	 
+if($hasilpenjumlahan==4) {
+echo "hasil syarat pertama benar";
+}
+elseif($hasilpenjumlahan==3) {
+echo "hasil syarat kedua benar";
+} else echo "semua syarat salah";
+?>
+
+
+<?php
+if(status = 2013-03-01 then (2013-03-01 - 2013-03-0 ) * 1000
+else
+tidak kenan denda
+?>
+
+
+
+<?php
+$tglA = '2011-06-15';
+$tglB = '2011-06-25';
+
+$query = mysql_query("SELECT DATEDIFF('".$tglB."','".$tglA."') AS jml");
+$row = mysql_fetch_array($query);
+
+echo $row['jml'];
+?>
+
+$tglB = tanggal buku di kembalikan
+$tglA = tanggal buku seharusnya di kembalikan..
