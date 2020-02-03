@@ -4,7 +4,7 @@ Sistem Informasi Perpustakaan dengan PHP dan MYSQL
 <p align="center"><img height="400px" src="https://github.com/perdianto27/si_perpustakaan/blob/master/image/screenshoot.png"></p>
 
 Tech:
-- PHP Native
+- Native PHP 5.3
 - Mysql
 - Javascript
 
